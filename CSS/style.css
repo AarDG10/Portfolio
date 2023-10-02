@@ -168,15 +168,22 @@ span{
 .about-content h2 {
     text-align:left;
     line-height: 1.2;
+    margin-left: 4rem;
+}
+
+.about-content a{
+    margin-left: 4rem;
 }
 
 .about-content h3{
     font-size:2.6rem;
+    margin-left: 4rem;
 }
 
 .about-content p{
     font-size: 1.6rem;
-    margin:2rem 0 3rem;
+    margin:2rem 0 5rem;
+    margin-left: 4rem;
 }
 
 .services h2{
